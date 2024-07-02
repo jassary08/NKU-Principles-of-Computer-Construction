@@ -1,1 +1,1 @@
-# NKU-Principles-of-Computer-Construction
+# NKU计算机组成原理实验
